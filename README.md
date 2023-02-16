@@ -5,6 +5,7 @@ This project implements simple version of desired logic in order to find and red
 <br>
 
 ## Results:
+As you can see, provided architecture meets requirements and there is nothing to be woried about. 
 ```log
 This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
